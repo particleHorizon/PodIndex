@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'PodUtil/PodUtil/*','PodUtil/PodUtil2/*'
   
-  s.public_header_files = 'PodUtil/PodUtil/*.h','PodUtil/PodUtil2/*.h'
+  #s.public_header_files = 'PodUtil/PodUtil/*.h','PodUtil/PodUtil2/*.h'
   
   #s.vendored_libraries = 'libPodUtil.a'
   
